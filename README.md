@@ -1,2 +1,2 @@
-# aiXperimens
+# aiXperiments
 AI ML Python
