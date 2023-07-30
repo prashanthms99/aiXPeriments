@@ -1,2 +1,0 @@
-# deepLearning
-Deep Learning Notebooks
